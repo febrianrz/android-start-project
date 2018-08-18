@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "480910784324",
+    "firebase_url": "https://myproject-dd938.firebaseio.com",
+    "project_id": "myproject-dd938",
+    "storage_bucket": "myproject-dd938.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480910784324:android:faf2cbc9b11aa310",
+        "android_client_info": {
+          "package_name": "alterindonesia.project.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480910784324-rsphsa7tkj0tm8f79ufpoiqj222e2kai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "alterindonesia.project.com",
+            "certificate_hash": "90564ff9d940062788ed427d604fe75284a40a91"
+          }
+        },
+        {
+          "client_id": "480910784324-otvole8hnc20netqpofl2db9u1j5dbr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9CNckylkNkR4LBDOmq7jVnHgrf0nvniw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480910784324-otvole8hnc20netqpofl2db9u1j5dbr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

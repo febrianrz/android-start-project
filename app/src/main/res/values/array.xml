@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="social_images">
+        <item>@drawable/img_social_android</item>
+        <item>@drawable/img_social_android</item>
+        <item>@drawable/img_social_android</item>
+        <item>@drawable/img_social_android</item>
+        <item>@drawable/img_social_android</item>
+
+        <item>@drawable/img_social_android</item>
+        <item>@drawable/img_social_android</item>
+        <item>@drawable/img_social_android</item>
+        <item>@drawable/img_social_android</item>
+        <item>@drawable/img_social_android</item>
+
+        <item>@drawable/img_social_android</item>
+        <item>@drawable/img_social_android</item>
+        <item>@drawable/img_social_android</item>
+        <item>@drawable/img_social_android</item>
+        <item>@drawable/img_social_android</item>
+
+        <item>@drawable/img_social_android</item>
+        <item>@drawable/img_social_android</item>
+        <item>@drawable/img_social_android</item>
+        <item>@drawable/img_social_android</item>
+    </integer-array>
+
+    <string-array name="social_names">
+        <item>Trasfer</item>
+        <item>Topup</item>
+        <item>Terima Uang</item>
+        <item>Transfer</item>
+        <item>Topup</item>
+
+        <item>Trasfer</item>
+        <item>Topup</item>
+        <item>Terima Uang</item>
+        <item>Transfer</item>
+        <item>Topup</item>
+
+        <item>Trasfer</item>
+        <item>Topup</item>
+        <item>Terima Uang</item>
+        <item>Transfer</item>
+        <item>Topup</item>
+
+        <item>Trasfer</item>
+        <item>Topup</item>
+        <item>Terima Uang</item>
+        <item>Transfer</item>
+    </string-array>
+
+</resources>
